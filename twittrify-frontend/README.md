@@ -1,39 +1,11 @@
 # Social Media Application - Frontend
 
-![Made-With-React](https://img.shields.io/badge/Made_with-React-informational?style=for-the-badge&logo=react) ![Made-With-Material_UI](https://img.shields.io/badge/Made_with-Material_UI-informational?style=for-the-badge&logo=material-ui)
-![Made-With-Redux](https://img.shields.io/badge/Made_with-Redux-informational?style=for-the-badge&logo=redux)
 
-This is the frontend of a social media application developed using React, Redux, Material-UI, and Formik. The frontend provides a user-friendly interface for interacting with the social media platform's features.
+This is the frontend of a social media application developed using React, Redux, Material-UI, and Formik. The frontend provides a user-friendly interface for interacting with the social media platform's features
 
 
-### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-- Node.js and npm installed
-- Clone this repository
-
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ScaryWings83289/twittrify-frontend.git
-cd twittrify-frontend
-```
-
-2. Install dependencies:
-```bash
-yarn install
-```
-
-3. Configure environment variables (if required) or API endpoints in the .env file.
-
-4. Start the development server:
-```bash
-yarn start
-```
+Configure environment variables (if required) or API endpoints in the .env file.
 
 ### Usage
 
@@ -64,12 +36,3 @@ The project follows the following folder structure:
     - `utils/`: Utility functions and constants.
 - `public/`: Contains static assets.
 
-
-### Developed With
-
-* [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
-* [React](https://reactjs.org/) - A javascript library for building user interfaces
-* [Create react app](https://create-react-app.dev/) - A quick method to start developing a react application.
-* [Babel](https://babeljs.io/) - A transpiler for javascript
-* [Redux](https://redux.js.org/) - Redux is an open-source JavaScript library for managing and centralizing application state.
-* [Webpack](https://webpack.js.org/) - A module bundler
